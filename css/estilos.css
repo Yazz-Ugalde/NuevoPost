@@ -16,3 +16,13 @@ body{
 #container h1 {
     font-size: 20px;
 }
+#cabecera{
+    background: aqua;
+    box-shadow: 0px 5px 30px 0px rgba(45, 30,50, 0.75);
+    color: crimson;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+    font-weight: bold;
+    padding: 0%;
+}
